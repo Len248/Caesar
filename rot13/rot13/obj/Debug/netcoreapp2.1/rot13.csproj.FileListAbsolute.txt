@@ -1,0 +1,11 @@
+C:\Users\PlanB-Praktikant\source\repos\rot13\rot13\bin\Debug\netcoreapp2.1\rot13.deps.json
+C:\Users\PlanB-Praktikant\source\repos\rot13\rot13\bin\Debug\netcoreapp2.1\rot13.runtimeconfig.json
+C:\Users\PlanB-Praktikant\source\repos\rot13\rot13\bin\Debug\netcoreapp2.1\rot13.runtimeconfig.dev.json
+C:\Users\PlanB-Praktikant\source\repos\rot13\rot13\bin\Debug\netcoreapp2.1\rot13.dll
+C:\Users\PlanB-Praktikant\source\repos\rot13\rot13\bin\Debug\netcoreapp2.1\rot13.pdb
+C:\Users\PlanB-Praktikant\source\repos\rot13\rot13\obj\Debug\netcoreapp2.1\rot13.csprojAssemblyReference.cache
+C:\Users\PlanB-Praktikant\source\repos\rot13\rot13\obj\Debug\netcoreapp2.1\rot13.csproj.CoreCompileInputs.cache
+C:\Users\PlanB-Praktikant\source\repos\rot13\rot13\obj\Debug\netcoreapp2.1\rot13.AssemblyInfoInputs.cache
+C:\Users\PlanB-Praktikant\source\repos\rot13\rot13\obj\Debug\netcoreapp2.1\rot13.AssemblyInfo.cs
+C:\Users\PlanB-Praktikant\source\repos\rot13\rot13\obj\Debug\netcoreapp2.1\rot13.dll
+C:\Users\PlanB-Praktikant\source\repos\rot13\rot13\obj\Debug\netcoreapp2.1\rot13.pdb
